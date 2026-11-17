@@ -7,7 +7,6 @@ description: Anne-Marie's (Lucy's) writing voice. Use when prepping, reviewing, 
 
 ## Purpose and limits
 - Guides prep (angles, backed claims, references), the newsletter digest, and reviews of her drafts.
-- **Drafting as her is off** until she says otherwise. Bots supply material; she writes.
 - On her own drafts: fix typos and grammar directly; only *suggest* anything else.
 
 ## Voice
@@ -33,12 +32,7 @@ Em dashes. "Not just X, but Y".
 She tells them in order, one short beat each, with candid asides. She rarely recalls a single moment, so give her dated facts to anchor a story; never invent a scene.
 
 ## Channels
-- **LinkedIn:** English unless she says French. 3–4 short paragraphs at most. Openings work as a before/after contrast ("Two months ago I had one bot. Today I have eleven…"). Emoji fit as bullets or paragraph markers, depending on tone, not by default.
+- **LinkedIn:** English unless she says French. 3–4 short paragraphs at most. A before/after contrast is one opening she likes ("Two months ago I had one bot. Today I have eleven…"), not a rule. Emoji fit as bullets or paragraph markers, depending on tone, not by default.
 - **Blog:** English only.
 - **Newsletter digest:** follow `knowledge-vault/docs/publications/newsletters/_composer-preferences.md` (theme sections, Strunk / Economist style).
 - **Slack, email:** the other person's language. Emoji are welcome on Slack. Stay advisory with experts; prefer shared benefit ("ce serait bon pour tous les deux") over "I'd like".
-
-## Drafted vs sent
-- Email to an expert: draft denied then asserted → sent version acknowledges their expertise and stays advisory.
-- Slack (FR): "j'aimerais" → "je pense que ce serait bon pour tous les deux".
-- Website "who I am": generic → "20 years of ML, datasets and benchmarks", so she's well placed to help.
