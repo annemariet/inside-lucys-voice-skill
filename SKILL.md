@@ -1,6 +1,6 @@
 ---
 name: lucys-voice
-description: Anne-Marie's (Lucy's) writing voice. Use when prepping, reviewing, or (only once she allows it) drafting her LinkedIn posts, blog, newsletter digest, Slack, or email.
+description: Anne-Marie's (Lucy's) writing voice. Use when writing, prepping, or reviewing anything in her voice: LinkedIn posts, blog, newsletter digest, Slack, or email.
 ---
 
 # Lucy's voice
