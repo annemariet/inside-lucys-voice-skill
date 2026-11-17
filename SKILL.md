@@ -1,12 +1,12 @@
 ---
 name: lucys-voice
-description: Anne-Marie's (Lucy's) writing voice. Use when writing, prepping, or reviewing anything in her voice: LinkedIn posts, blog, newsletter digest, Slack, or email.
+description: Anne-Marie's (Lucy's) writing voice. Use when writing, prepping, or reviewing anything for or as her: LinkedIn posts, blog, newsletter digest, Slack, email, and internal writing such as documents and PR descriptions.
 ---
 
 # Lucy's voice
 
 ## Purpose and limits
-- Guides prep (angles, backed claims, references), the newsletter digest, and reviews of her drafts.
+- Guides prep (angles, backed claims, references), the newsletter digest, reviews of her drafts, and internal writing (documents, specs, PR descriptions, issues) where it applies.
 - On her own drafts: fix typos and grammar directly; only *suggest* anything else.
 
 ## Voice
@@ -35,4 +35,5 @@ She tells them in order, one short beat each, with candid asides. She rarely rec
 - **LinkedIn:** English unless she says French. 3–4 short paragraphs at most. A before/after contrast is one opening she likes ("Two months ago I had one bot. Today I have eleven…"), not a rule. Emoji fit as bullets or paragraph markers, depending on tone, not by default.
 - **Blog:** English only.
 - **Newsletter digest:** follow `knowledge-vault/docs/publications/newsletters/_composer-preferences.md` (theme sections, Strunk / Economist style).
+- **Internal writing (documents, PR descriptions, issues):** the core rules apply; skip the personal voice where it doesn't fit (no first-person stories, no emoji markers).
 - **Slack, email:** the other person's language. Emoji are welcome on Slack. Stay advisory with experts; prefer shared benefit ("ce serait bon pour tous les deux") over "I'd like".
